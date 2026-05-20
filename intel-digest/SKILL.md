@@ -49,3 +49,21 @@ Tag items with 🎓 that could work in teaching. Cues user to chain with news-to
 ---
 
 ## Output Format
+📋 INTEL DIGEST — [Date]
+⚡ ACTION ITEMS
+
+[Item — source — urgency]
+
+🌏 DOMAIN INTELLIGENCE
+Supply Chain → [Development + relevance note]
+Business / AI → [Development + relevance note]
+🎓 CLASSROOM CURRENCY
+→ [News item] — [why it's teachable]
+→ Want me to turn this into a teaching note?
+
+---
+
+## Filtering Rules
+
+**Include**: Singapore/APAC SCM, automation/AI in operations, trade policy, new AI tools, concrete data points
+**Exclude**: Generic think-pieces, promotional emails, news older than 14 days
